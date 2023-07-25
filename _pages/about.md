@@ -2,7 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: >
+<p> <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.</p>
+We can only see a short distance ahead, but we can see <br>
+plenty there that needs to be done <br> <i>-A. Turing</i>
 
 profile:
   align: right
