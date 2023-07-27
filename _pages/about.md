@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Esteemed data scientist and computer science student at the University of Wisconsin-Milwaukee, proficienct in several programming languages and technologies. Undergraduate research consisted of Markov Chains Analysis, Pulsar Search Collaborations, and Super Massive Binary Blackhole Simulations. My favorite [subreddit](https://www.reddit.com/r/cscareerquestions/). 
+Data scientist and computer science student at the University of Wisconsin-Milwaukee, proficienct in several programming languages and technologies. Undergraduate research consisted of Markov Chains Analysis, Pulsar Search Collaborations, and Super Massive Binary Blackhole Simulations. My favorite [subreddit](https://www.reddit.com/r/cscareerquestions/). 
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
